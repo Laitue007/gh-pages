@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Gestion de contenu",
     "description": "",
-    "home_page_url": "https://github.com/Laitue007/tortue",
-    "feed_url": "https://github.com/Laitue007/tortue/feed.json",
+    "home_page_url": "https://laitue007.github.io/tortue",
+    "feed_url": "https://laitue007.github.io/tortue/feed.json",
     "user_comment": "",
     "author": {
         "name": "L. Cherubini"
     },
     "items": [
         {
-            "id": "https://github.com/Laitue007/tortue/ilustration-de.html",
-            "url": "https://github.com/Laitue007/tortue/ilustration-de.html",
+            "id": "https://laitue007.github.io/tortue/ilustration-de.html",
+            "url": "https://laitue007.github.io/tortue/ilustration-de.html",
             "title": "Illustration de ...",
             "summary": "Allégorie de la connaissance ? Source photographie : © Pixabay Nous avons besoin d'outils pour progresser et pousser les barrières de la connaissance, alors servez-vous et tracez votre chemin",
-            "content_html": "<p>Allégorie de la connaissance ?</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://github.com/Laitue007/tortue/media/posts/1/gardening-tools-1478547_1920.jpg\" sizes=\"100vw\" srcset=\"https://github.com/Laitue007/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-xs.jpg 300w ,https://github.com/Laitue007/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-sm.jpg 480w ,https://github.com/Laitue007/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-md.jpg 768w ,https://github.com/Laitue007/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-lg.jpg 1024w ,https://github.com/Laitue007/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-xl.jpg 1360w ,https://github.com/Laitue007/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-2xl.jpg 1600w\"  alt=\"\" width=\"1920\" height=\"1099\"></figure>\n<p class=\"align-right\">Source photographie : © Pixabay</p>\n<p>Nous avons besoin d'outils pour progresser et pousser les barrières de la connaissance, alors servez-vous et tracez votre chemin</p>",
+            "content_html": "<p>Allégorie de la connaissance ?</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://laitue007.github.io/tortue/media/posts/1/gardening-tools-1478547_1920.jpg\" sizes=\"100vw\" srcset=\"https://laitue007.github.io/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-xs.jpg 300w ,https://laitue007.github.io/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-sm.jpg 480w ,https://laitue007.github.io/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-md.jpg 768w ,https://laitue007.github.io/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-lg.jpg 1024w ,https://laitue007.github.io/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-xl.jpg 1360w ,https://laitue007.github.io/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-2xl.jpg 1600w\"  alt=\"\" width=\"1920\" height=\"1099\"></figure>\n<p class=\"align-right\">Source photographie : © Pixabay</p>\n<p>Nous avons besoin d'outils pour progresser et pousser les barrières de la connaissance, alors servez-vous et tracez votre chemin</p>",
             "author": {
                 "name": "L. Cherubini"
             },
