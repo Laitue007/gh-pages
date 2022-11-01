@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/Laitue007/gh-pages/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/Laitue007/tortue/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/Laitue007/gh-pages/</loc>
+<loc>https://github.com/Laitue007/tortue/</loc>
 </url>
 <url>
-<loc>https://github.com/Laitue007/gh-pages/ilustration-de.html</loc>
-<lastmod>2022-10-25T12:14:21+02:00</lastmod>
+<loc>https://github.com/Laitue007/tortue/ilustration-de.html</loc>
+<lastmod>2022-11-01T08:18:10+01:00</lastmod>
 <image:image>
-<image:loc>https://github.com/Laitue007/gh-pages/media\posts\1/gardening-tools-1478547_1920.jpg</image:loc>
+<image:loc>https://github.com/Laitue007/tortue/media\posts\1/gardening-tools-1478547_1920.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

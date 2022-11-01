@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Gestion de contenu</title>
-    <link href="https://github.com/Laitue007/gh-pages/feed.xml" rel="self" />
-    <link href="https://github.com/Laitue007/gh-pages" />
-    <updated>2022-10-25T12:14:21+02:00</updated>
+    <link href="https://github.com/Laitue007/tortue/feed.xml" rel="self" />
+    <link href="https://github.com/Laitue007/tortue" />
+    <updated>2022-11-01T08:18:10+01:00</updated>
     <author>
         <name>L. Cherubini</name>
     </author>
-    <id>https://github.com/Laitue007/gh-pages</id>
+    <id>https://github.com/Laitue007/tortue</id>
 
     <entry>
         <title>Illustration de ...</title>
         <author>
             <name>L. Cherubini</name>
         </author>
-        <link href="https://github.com/Laitue007/gh-pages/ilustration-de.html"/>
-        <id>https://github.com/Laitue007/gh-pages/ilustration-de.html</id>
+        <link href="https://github.com/Laitue007/tortue/ilustration-de.html"/>
+        <id>https://github.com/Laitue007/tortue/ilustration-de.html</id>
 
-        <updated>2022-10-25T12:14:21+02:00</updated>
+        <updated>2022-11-01T08:18:10+01:00</updated>
             <summary>
                 <![CDATA[
                     Allégorie de la connaissance ? Source photographie : © Pixabay Nous avons besoin d'outils pour progresser et pousser les barrières de la connaissance, alors servez-vous et tracez votre chemin
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>Allégorie de la connaissance ?</p>
-<figure class="post__image"><img loading="lazy"  src="https://github.com/Laitue007/gh-pages/media/posts/1/gardening-tools-1478547_1920.jpg" sizes="100vw" srcset="https://github.com/Laitue007/gh-pages/media/posts/1/responsive/gardening-tools-1478547_1920-xs.jpg 300w ,https://github.com/Laitue007/gh-pages/media/posts/1/responsive/gardening-tools-1478547_1920-sm.jpg 480w ,https://github.com/Laitue007/gh-pages/media/posts/1/responsive/gardening-tools-1478547_1920-md.jpg 768w ,https://github.com/Laitue007/gh-pages/media/posts/1/responsive/gardening-tools-1478547_1920-lg.jpg 1024w ,https://github.com/Laitue007/gh-pages/media/posts/1/responsive/gardening-tools-1478547_1920-xl.jpg 1360w ,https://github.com/Laitue007/gh-pages/media/posts/1/responsive/gardening-tools-1478547_1920-2xl.jpg 1600w"  alt="" width="1920" height="1099"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://github.com/Laitue007/tortue/media/posts/1/gardening-tools-1478547_1920.jpg" sizes="100vw" srcset="https://github.com/Laitue007/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-xs.jpg 300w ,https://github.com/Laitue007/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-sm.jpg 480w ,https://github.com/Laitue007/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-md.jpg 768w ,https://github.com/Laitue007/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-lg.jpg 1024w ,https://github.com/Laitue007/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-xl.jpg 1360w ,https://github.com/Laitue007/tortue/media/posts/1/responsive/gardening-tools-1478547_1920-2xl.jpg 1600w"  alt="" width="1920" height="1099"></figure>
 <p class="align-right">Source photographie : © Pixabay</p>
 <p>Nous avons besoin d'outils pour progresser et pousser les barrières de la connaissance, alors servez-vous et tracez votre chemin</p>
             ]]>
